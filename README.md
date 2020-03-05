@@ -17,3 +17,9 @@
 `git fetch` - tels your local to fetch any meta-data from the original repo
 
 `git pull` - does what git fetch does but also brings new files to your local
+
+`git branch` - shows you which branch you are on
+
+`git branch -a` - lists all branches for the project
+
+`git checkout <branch-name>` - switches to a different branch
