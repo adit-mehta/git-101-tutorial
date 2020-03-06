@@ -1,1 +1,1 @@
-this is the branch commit
+this is the branch commit; this is the master branch change --> now the conflict is resolved.
